@@ -34,6 +34,8 @@
     <div class="row justify-content-center">
         <div class="col-lg-5 text-center">
             <h3>Nuestra sitio web esta en construcción, pronto volveremos con más novedades y servicios.</h3>
+            <br>
+            <h4>Arequipa - Perú</h4>
         </div>
     </div>
 
