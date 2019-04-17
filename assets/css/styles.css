@@ -1,0 +1,87 @@
+body{
+    background-color: #76b82c;
+}
+
+.container{
+    padding-top: 20px;
+    background-color: white;
+}
+
+.col-center{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    padding: auto;
+}
+
+.btnMenu{
+    background-color: #cccccc;
+    border-radius: 30px;
+}
+.btnMenu a{
+    color: black;
+}
+
+.btnMenuActive{
+    background-color: #43851b;
+    border-radius: 30px;
+}
+
+.btnMenuActive a{
+    color: white;
+}
+
+.subtitle{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.footer {
+    border-top: 1px solid rgba(115, 140, 152, 0.2);
+    bottom: 0;
+    color: #818a91;
+    text-align: center !important;
+    padding: 10px;
+    position: relative;
+    right: auto;
+    left: auto;
+    width: 100%;
+    background-color: #fff;
+}
+
+.contentIndex{
+    padding: 30px;
+}
+
+.sectionsProjects{
+    padding: 25px;
+}
+
+.proyectos{
+    padding-top: 50px;
+}
+
+.cardAbout{
+    border-radius: 20px;
+    background-color: #007cc8;
+    color: white;
+    padding: 2px;
+    margin: 6px;
+}
+
+.colaboradores{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #007cc8;
+}
+
+.titlePage{
+    color: green;
+}
+
+.titleBlog{
+    color: black;
+}
